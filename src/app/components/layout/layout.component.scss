@@ -1,0 +1,12 @@
+:host {
+  height        : 100vh;
+  display       : flex;
+  flex-direction: column;
+
+  mat-toolbar {
+    height     : 5rem;
+    display    : flex;
+    align-items: center;
+
+  }
+}
